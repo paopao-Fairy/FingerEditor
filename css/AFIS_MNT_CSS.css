@@ -1,0 +1,135 @@
+.cvsCont_AFIS_Css{
+	text-align:center;
+	width:100%;
+	height:640px;
+	border:solid 4px #6495ED;
+}
+
+.character{
+	margin:0px 0px 0px -640px;
+}
+
+.afis_class{
+	margin:0px;
+}
+
+#characterIconDivId{
+	width:168px;
+	height:100px;
+	margin:0px;
+	padding:0px;
+}
+
+.afis_button_class{
+	width:38px; 
+	height:38px;
+	float:left;
+	margin:2px;
+	padding:0px;
+	background:no-repeat;
+	border-style:solid;
+	border-width:2px;
+	border-color:#808080;// 置灰颜色#D3D3D3;
+	background-size:34px;
+}
+
+/*图标div*/
+#typeIconDivId1{
+	height:84px;
+}
+
+#typeIconDivId2{
+	height:84px;
+}
+
+#ridgeIconDivId{
+	height:66px;
+    text-align:left;
+}
+
+#auxiliaryIconDivId{
+	height:84px;
+}
+
+
+#drawCenter{
+	background-image:url(../img/center1.ico);
+}
+
+#drawCharacter{
+	background-image:url(../img/character1.ico);
+}
+
+#drawLTri{
+	background-image:url(../img/Ltri1.ico);
+}
+
+#drawRTri{
+	background-image:url(../img/Rtri1.ico);
+}
+
+#drawDownCen{
+	background-image:url(../img/downCenter1.ico);
+}
+
+#drawFingerDir{
+	background-image:url(../img/fingerDir1.ico);
+}
+
+#saveMnt{
+	background-image:url(../img/ok.ico);
+}
+
+/*纹型图标*/
+#arc_Id{
+	background-image:url(../img/arc.jpg);
+}
+
+#lloop_Id{
+	background-image:url(../img/L_loop.jpg);
+}
+
+#rloop_Id{
+	background-image:url(../img/R_loop.jpg);
+}
+
+#whorl_Id{
+	background-image:url(../img/whorl.jpg);
+}
+
+#sundry_Id{
+	background-image:url(../img/sundry.jpg);
+}
+
+/*第二组*/
+#arc_Id1{
+	background-image:url(../img/arc.jpg);
+}
+
+#lloop_Id1{
+	background-image:url(../img/L_loop.jpg);
+}
+
+#rloop_Id1{
+	background-image:url(../img/R_loop.jpg);
+}
+
+#whorl_Id1{
+	background-image:url(../img/whorl.jpg);
+}
+
+#sundry_Id1{
+	background-image:url(../img/sundry.jpg);
+}
+
+#n_whorl{
+	background-image:url(../img/N_whorl.jpg);
+}
+
+#l_whorl{
+	background-image:url(../img/L_whorl.jpg);
+}
+
+#r_whorl{
+	background-image:url(../img/R_whorl.jpg);
+}
